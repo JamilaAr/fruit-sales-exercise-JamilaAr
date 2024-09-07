@@ -2,7 +2,7 @@ import pandas as pd
 
 #create DataFrame with fruits sales information
 
-data ={'Apple' : [35, 41],
+data ={'Apples' : [35, 41],
        'Bananas' : [21, 34]
 }
 
